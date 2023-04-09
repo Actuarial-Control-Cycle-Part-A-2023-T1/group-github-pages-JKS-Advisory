@@ -36,6 +36,7 @@ A holistic analysis of the Program is provided through discussing various elemen
 
 ## 2. Program Design Considerations
 The Program design process reflect elements of the actuarial control cycle, including defining key problems, designing potential solutions, building a model, setting assumptions, conducting sensitivity tests, monitoring results, and updating for experience.
+<img align="left" width="220" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%201.png">
 
 ***Key Problems***
 * High death and injury numbers after catastrophic climate events
@@ -59,9 +60,17 @@ To address the key problems identified above, JKS Advisory proposes the Program 
   - ***Voluntary Relocation Scheme:*** citizens will be incentivised to voluntarily relocate away from high-risk regions and into low-risk regions through property buy-outs, government grants, new employment and housing opportunities
   - ***Involuntary Relocation Scheme:*** citizens will have mandatory insurance covering property damage and relocation costs after climate catastrophes
 
-
 ## 4.1. Voluntary Relocation Scheme
 The Program involves incentivising citizens in high-risk regions to voluntarily relocate into lower-risk regions under the Voluntary Relocation Scheme, which commences in 2024. High-risk and low-risk regions were determined through analysis into each region’s frequency and average severity of climate events, as well as the average number of associated deaths and injuries.
+<p align="center">
+  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%202.png">
+</p>
+
+Figure 2 shows that Regions 2 and 5 are the riskiest and as such, households in these regions will qualify under the Voluntary Relocation Scheme. In comparison, Regions 4 and 6 have lower risk and will host the newly relocated individuals from Region 2 and 5. Population movement incentivised by the Program is in Figure 3.
+<p align="center">
+  <img width="300" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%203.png">
+</p>
+
 
 ## 4.1.1. Relocation Incentives
 
