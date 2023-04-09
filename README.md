@@ -13,7 +13,7 @@
 4. [Program Solution](#4-program-solution)
   - 4.1. [Voluntary Relocation Scheme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/README.md#41-voluntary-relocation-scheme)
     - 4.1.1. [Relocation Incentives](#411-relocation-incentives)
-    - 4.1.2. [Modelling Voluntary Relocation Costs](412-Modelling-Voluntary-Relocation-Costs)
+    - 4.1.2. [Modelling Voluntary Relocation Costs](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/README.md#412-modelling-voluntary-relocation-costs)
   - 4.2. [Involuntary Relocation Scheme](#42-involuntary-relocation-scheme)
     - 4.2.1. [Modelling Involuntary Relocation Costs](#421-modelling-involuntary-relocation-costs)
   - 4.3. [Alternative Solutions Considered](#43-alternative-solutions-considered)
