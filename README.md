@@ -30,8 +30,25 @@
 ---
 
 ## 1. Executive Summary
+JKS Advisory recommends implementing a social insurance program (“Program”) to help Storslysia manage the financial risks associated with catastrophe-related displacement. The Program will reduce Storslysia’s costs, injuries, and deaths resulting from catastrophe climate-related events through addressing involuntary and voluntary relocations. As voluntary relocations can typically be achieved at a lower cost, JKS Advisory has recommended both cash-based compensation and in-kind support schemes to incentivise households to move from high-risk regions into lower-risk regions. The Program will operate from 2023 to 2040, to ensure a 90% confidence level of not exceeding 10% of Storslysia’s GDP in any given year. ​
+
+A holistic analysis of the Program is provided through discussing various elements of the actuarial control cycle, including identifying key problems, designing potential solutions, and monitoring results. Additionally, a discussion into key risk considerations, ethical implications and data limitations is presented. Unless specified otherwise, all calculations provided throughout this report will be in relation to Climate Scenario – SSP2-3.4, as this is the most probable outcome.
 
 ## 2. Program Design Considerations
+The Program design process reflect elements of the actuarial control cycle, including defining key problems, designing potential solutions, building a model, setting assumptions, conducting sensitivity tests, monitoring results, and updating for experience.
+
+***Key Problems***
+* High death and injury numbers after catastrophic climate events
+* Involuntary, or reactive relocation, is very costly
+
+***Key Solution – The Program***
+* Voluntary relocation incentives using cash-based and in-kind support
+* Involuntary relocation and household damages covered by insurance scheme
+* Alternative solutions: conservation programs and housing safety standards
+
+***Monitoring the Program***
+* Monitor the Program annually using key metrics and sensitivity analyses
+* Update the Program annually for new claims experience, economic environment and admin expenses
 
 ## 3. Key Problems
 
