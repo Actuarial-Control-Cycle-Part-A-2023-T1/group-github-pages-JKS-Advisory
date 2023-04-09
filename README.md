@@ -11,7 +11,7 @@
 2. [Program Design Considerations](#2-program-design-considerations)
 3. [Key Problems](#3-key-problems)
 4. [Program Solution](#4-program-solution)
-  - 4.1. [Voluntary Relocation Scheme](41-Voluntary-Relocation-Scheme)
+  - 4.1. [Voluntary Relocation Scheme](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/README.md#41-voluntary-relocation-scheme)
     - 4.1.1. [Relocation Incentives](#411-relocation-incentives)
     - 4.1.2. [Modelling Voluntary Relocation Costs](412-Modelling-Voluntary-Relocation-Costs)
   - 4.2. [Involuntary Relocation Scheme](#42-involuntary-relocation-scheme)
