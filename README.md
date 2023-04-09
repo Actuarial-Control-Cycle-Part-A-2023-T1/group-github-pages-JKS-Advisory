@@ -10,6 +10,13 @@ Source: https://unsplash.com/@mattpalmer
 
 ---
 
+## Context
+JKS Advisory have come up with a Social insurance Program to help analyse, manage and monitor the displacement risks associated with climate change for Storslysia's Government. To find out more information on our findings and results, keep scrolling! 
+
+For more contextual background on the 2023 SOA Research Challenge, click [here](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/), and to access JKS Advisory's full report, click [here](https://unsw-my.sharepoint.com/:b:/g/personal/z5258150_ad_unsw_edu_au/EbPL72i3ZApNnoQcUHvndToBX1g4ZwKD7fCn0H0Wc062nw?e=DNzgfl).
+
+---
+
 ### Table of Contents
 
 1. [Executive Summary](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/README.md#1-executive-summary)
