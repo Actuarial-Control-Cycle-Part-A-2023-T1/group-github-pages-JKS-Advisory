@@ -7,7 +7,25 @@
 
 ### Table of Contents
 
-1. [Executive Summary](##executive-summary)
+1. [Executive Summary](#executive-summary)
+2. [Program Design Considerations](#Program-Design-Considerations)
+3. [Key Problems]
+4. [Program Solution]
+  - 4.1. [Voluntary Relocation Scheme]
+    - 4.1.1. [Relocation Incentives]
+    - 4.1.2. [Modelling Voluntary Relocation Costs]
+  - 4.2. [Involuntary Relocation Scheme]
+    - 4.2.1. [Modelling Involuntary Relocation Costs]
+  - 4.3. [Alternative Solutions Considered]
+  - 4.4. [Program Implementation Timeline]
+5. [Monitoring Results]
+  - 5.1. [Analysing Key Metrics]
+  - 5.2. [Sensitivity Analysis]
+6. [Risk Considerations]
+7. [Ethical Considerations]
+8. [Limitations]
+9. [Final Recommendations]
+10. [References]
 
 
 ## 1. Executive Summary
@@ -22,11 +40,11 @@
 
 ## 4.1.1. Relocation Incentives
 
-## 4.1.2 Modelling Voluntary Relocation Costs
+## 4.1.2. Modelling Voluntary Relocation Costs
 
 ## 4.2. Involuntary Relocation Scheme
 
-## 4.1.2 Modelling Involuntary Relocation Costs
+## 4.2.1. Modelling Involuntary Relocation Costs
 
 ## 4.3. Alternative Solutions Considered
 
