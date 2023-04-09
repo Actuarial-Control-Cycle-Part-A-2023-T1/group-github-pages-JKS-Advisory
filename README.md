@@ -1,6 +1,7 @@
 # JKS Advisory - 2023 SOA Student Research Case Study
 
-## Storslysia Relocation Social Insurance Program: _Managing Displacement Risk in the Face of Climate Change_
+## Storslysia Relocation Social Insurance Program
+***Managing Displacement Risk in the Face of Climate Change***
 
 ---
 
