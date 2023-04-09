@@ -7,7 +7,7 @@
 
 ### Table of Contents
 
-[Executive Summary](
+[Executive Summary](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Group-JKS-Advisory/blob/main/README.md#executive-summary)
 
 
 ## 1. Executive Summary
