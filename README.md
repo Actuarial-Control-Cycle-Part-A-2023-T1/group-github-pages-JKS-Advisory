@@ -8,7 +8,8 @@
 ### Table of Contents
 
 1. [Executive Summary](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/README.md#1-executive-summary)
-2. [Program Design Considerations]
+2. [Program Design Considerations](#2-program-design-considerations)
+
 3. [Key Problems]
 4. [Program Solution]
   - 4.1. [Voluntary Relocation Scheme]
