@@ -51,10 +51,17 @@ The Program design process reflect elements of the actuarial control cycle, incl
 * Update the Program annually for new claims experience, economic environment and admin expenses
 
 ## 3. Key Problems
+A key issue that arises from catastrophic climate events is the loss of life as well as injuries to residents. These events also present significant property damage costs and force households to relocate reactively, which is costly and leads to greater social disarticulation, psychological impacts, and higher unemployment compared to voluntary relocation.
 
 ## 4. Program Solution
+To address the key problems identified above, JKS Advisory proposes the Program as a solution to reduce Storslysia’s financial risk to climate catastrophe-related displacement. The Program addresses voluntary and involuntary relocation through:
+
+  - ***Voluntary Relocation Scheme:*** citizens will be incentivised to voluntarily relocate away from high-risk regions and into low-risk regions through property buy-outs, government grants, new employment and housing opportunities
+  - ***Involuntary Relocation Scheme:*** citizens will have mandatory insurance covering property damage and relocation costs after climate catastrophes
+
 
 ## 4.1. Voluntary Relocation Scheme
+The Program involves incentivising citizens in high-risk regions to voluntarily relocate into lower-risk regions under the Voluntary Relocation Scheme, which commences in 2024. High-risk and low-risk regions were determined through analysis into each region’s frequency and average severity of climate events, as well as the average number of associated deaths and injuries.
 
 ## 4.1.1. Relocation Incentives
 
