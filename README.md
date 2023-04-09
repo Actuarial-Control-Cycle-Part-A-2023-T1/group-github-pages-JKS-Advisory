@@ -1,5 +1,10 @@
-# JKS Advisory - 2023 SOA Student Research Case Study
+![bg image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/matt-palmer-K5KmnZHv1Pg-unsplash.jpg)
+> 
+Source: https://unsplash.com/@mattpalmer
 
+# JKS Advisory - 2023 SOA Student Research Case Study
+<img width="250" alt="image" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Logos.png">
+                                                                                                                                                
 ## Storslysia Relocation Social Insurance Program
 ***Managing Displacement Risk in the Face of Climate Change***
 
