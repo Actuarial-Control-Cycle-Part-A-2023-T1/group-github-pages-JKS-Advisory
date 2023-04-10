@@ -8,7 +8,7 @@ Source: https://unsplash.com/@mattpalmer
 
 Authors: Abiya Hanif, Ajaey Loganathan, Jenny Zhang, Kenuka Wijayatunga, Sarah Liang
 
-<img width="250" alt="image" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Logos.png">
+<img width="250" alt="image" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Logos.png">
 
 ---
 
@@ -79,12 +79,12 @@ To address the key problems identified above, JKS Advisory proposes the Program 
 ## 4.1. Voluntary Relocation Scheme
 The Program involves incentivising citizens in high-risk regions to voluntarily relocate into lower-risk regions under the Voluntary Relocation Scheme, which commences in 2024. High-risk and low-risk regions were determined through analysis into each region’s frequency and average severity of climate events, as well as the average number of associated deaths and injuries.
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%202.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%202.png">
 </p>
 
 Figure 2 shows that Regions 2 and 5 are the riskiest and as such, households in these regions will qualify under the Voluntary Relocation Scheme. In comparison, Regions 4 and 6 have lower risk and will host the newly relocated individuals from Region 2 and 5. Population movement incentivised by the Program is in Figure 3.
 <p align="center">
-  <img width="300" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%203.png">
+  <img width="300" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%203.png">
 </p>
 
 ## 4.1.1. Relocation Incentives
@@ -107,7 +107,7 @@ The above proportions are based off previous case studies, such as NSW Governmen
 Voluntary relocation from high-risk to lower-risk areas will further be incentivised through a range of government grants, shown below, which have all been based off NSW Government Revenue grants (NSW Treasury, 2015). While these grants target different demographics, they each help cover expenses such as moving costs and temporary accommodation. 
 
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Grant%20Types.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Grant%20Types.png">
 </p>
 
 **Incentive 4: Government Infrastructure Investment**
@@ -142,23 +142,23 @@ Frequency was modelled using Peril Type and Event Size (Minor, Medium, Major).
 *Modelling Minor, Medium and Major Frequencies:* The two key distributions considered for modelling frequency were Poisson and Negative Binomial. The comparison between the empirical and theoretical distributions for each of these can be found in the diagrams below. Figure 4 shows that the Negative Binomial CDF fits the empirical data to a higher degree than the Poisson CDF as it allows for greater variance. Furthermore, a chi-squared test was conducted to assess the fit of the data against a Negative Binomial distribution. This yielded a p-value < 0.05, and thus, was selected as our distribution. Thus, our initial hypothesis was that the frequency was Negative Binomial distributed.
 
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%204.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%204.png">
 </p>
 
 After creating separate datasets for each peril grouping and event size, the 95th negative binomial quantile was estimated to obtain a yearly frequency estimate. The 80th quantile was used to ensure that frequency would not be underestimated as it is necessary to keep total expenses below 10% of GDP with a high degree of certainty. In some instances, if there was a lack of data or the estimated frequency was 0, a frequency of 0.5 was instead used as there should always be a non-zero probability of an event occurring. The final estimated frequencies are as follows:
 
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Frequency%20Table.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Frequency%20Table.png">
 </p>
 During EDA, some regions were discovered to be more exposed to certain perils, therefore the frequencies of events were split amongst the regions. A ratio was determined by finding the historical occurrence of each peril in each region and this ratio was applied to split each frequency into the 6 regions.
 
 ### Severity
 
-<img align="right" width="190" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%205.png">
+<img align="right" width="190" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%205.png">
 Once frequency estimates for different sized perils for each region were obtained, severities needed to be estimated for the same categories of peril, size, and region. As seen in Figure 5, which displays historical claim severity after accounting for inflation and population growth, there are no trends present. Consequently, severity prediction was modelled utilising historical averages.
 
 ### Catastrophic Events
-<img align="right" width="270" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%206.png">
+<img align="right" width="270" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%206.png">
 
 The severity of Catastrophic events was modelled using Extreme Value Theory and the Peaks over Threshold (POT) method, which is a method that deals with the tail-end of a distribution. 
 
@@ -201,7 +201,7 @@ The primary reason emphasis is placed on voluntary location is due to the additi
 The Program’s 2023 forecasted expenses of Ꝕ8.5b will consist solely of the Involuntary Relocation Scheme as the Voluntary Relocation Scheme does not commence until 2024. When the 25% MCR is applied to ~Ꝕ8.58b, it can be deduced that Storslysia should reserve a minimum of Ꝕ10.5b in 2022, which is Ꝕ8.58*125% discounted to present day in 2022. As the Institute (IFAA, 2016) states that the CI of the floor MCR applies to one-year risk values, the economic capital for the program should be monitored every year, as mentioned in the timeline. This means that required reserves will need to be monitored and updated each year for potential capital injections in order for the program to remain solvent.
 
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%207.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%207.png">
 </p>
 
 ## 5. Monitoring Results
@@ -210,14 +210,14 @@ After initial implementation of the Program according to Figure 7, the Program�
 ## 5.1. Analysing Key Metrics
 To monitor the results and re-assess the assumptions, JKS Advisory has recommended analysing the following key metrics, so Storslysia does not exceed 10% of their GDP in costs and has enough capital to keep the program solvent.
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Key%20Metrics%20Table.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Key%20Metrics%20Table.png">
 </p>
 
 ## 5.2. Sensitivity Analysis
 The climate scenarios range from Case 1, which is optimistic regarding conservation and predicts a decrease in natural hazard frequency, to Case 5, which assumes the ‘worst-case’ scenario and predicts an exponential increase. As seen in Figure 8, the Net Present Value (NPV) of the costs are higher without the Program by an approximate factor of 2x for all cases. Note: until the conclusion of the Program in 2040, the cost with the program is greater than the cost in its absence. Only in perpetuity where the impacts of the scheme can be observed are savings generated. Figure 9 illustrates the increasing cost such that Case 5 > Case 3 > Case 2 > Case 1. Additionally, by relocating individuals away from the riskiest areas, there is a 47% decrease in the number of deaths and 39% decrease in the number of injuries by 2100. At the forefront of our scheme is the individual – not only providing monetary support but aiding health and wellbeing.
 
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%208%20%26%209.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%208%20%26%209.png">
 </p>
 
 Moreover, a 90% confidence level can be attributed to the natural hazard costs incurred by Storslysia. Grouping events by Year provides a total annual cost for each historic year, with 61 total observations. Given the high observations, Central Limit Theorem and the Normal Distribution assumption can be made and used to determine a 90% confidence level for total yearly costs – a value of approximately Ꝕ 8.96 billion which is well under the Ꝕ 10.55 billion we have predicted for 2022. Additionally, across all years, the maximum percentage of GDP used by the Program costs sits at approximately 1%. This is well below the required 10% target - providing additional certainty.
@@ -225,12 +225,12 @@ Moreover, a 90% confidence level can be attributed to the natural hazard costs i
 To further ensure the long-term sustainability of this program, population movement and perpetuity assumptions were adjusted to conduct stress testing. The table below shows the NPV into perpetuity of these changes in billions (Ꝕ). Even in the most extreme case E, the expenses of the program do not exceed 1% of GDP in a year, providing confidence that it is highly unlikely that the program will ever exceed 10% of Storslysia GDP.
 
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Assumption%20Scenarios%20Table.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Assumption%20Scenarios%20Table.png">
 </p>
 
 ## 6. Risk Considerations
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Risk%20Considerations%20Table.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Risk%20Considerations%20Table.png">
 </p>
 
 ## 7. Ethical Considerations
@@ -250,7 +250,7 @@ One limitation of the program is the socioeconomic situation of the two regions 
 
 ### Data Limitations
 <p align="center">
-  <img width="700" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Data%20Limitations%20Table.png">
+  <img width="700" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Data%20Limitations%20Table.png">
 </p>
 
 ## 9. Final Recommendations
