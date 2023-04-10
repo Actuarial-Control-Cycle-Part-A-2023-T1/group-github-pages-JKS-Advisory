@@ -1,5 +1,5 @@
 # JKS Advisory - 2023 SOA Student Research Case Study
-![bg image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/matt-palmer-K5KmnZHv1Pg-unsplash.jpg)
+![bg image](https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Background%20Image.png)
 > 
 Source: https://unsplash.com/@mattpalmer
 
