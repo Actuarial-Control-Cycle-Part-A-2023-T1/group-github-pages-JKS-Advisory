@@ -52,7 +52,7 @@ A holistic analysis of the Program is provided through discussing various elemen
 
 ## 2. Program Design Considerations
 The Program design process reflect elements of the actuarial control cycle, including defining key problems, designing potential solutions, building a model, setting assumptions, conducting sensitivity tests, monitoring results, and updating for experience.
-<img align="left" width="220" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Figure%201.png">
+<img align="left" width="220" src="https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/main/Figure%201.png">
 
 ***Key Problems***
 * High death and injury numbers after catastrophic climate events
