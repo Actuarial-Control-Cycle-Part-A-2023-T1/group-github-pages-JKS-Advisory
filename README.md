@@ -8,7 +8,7 @@ Source: https://unsplash.com/@mattpalmer
 
 Authors: Abiya Hanif, Ajaey Loganathan, Jenny Zhang, Kenuka Wijayatunga, Sarah Liang
 
-<img width="250" alt="image" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Logos.png">
+<img width="250" alt="image" src="Logos.png">
 
 ---
 
