@@ -1,5 +1,5 @@
 # JKS Advisory - 2023 SOA Student Research Case Study
-![matt-palmer-K5KmnZHv1Pg-unsplash.jpg](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/matt-palmer-K5KmnZHv1Pg-unsplash.jpg)
+![bg image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/matt-palmer-K5KmnZHv1Pg-unsplash.jpg)
 > 
 Source: https://unsplash.com/@mattpalmer
 
@@ -8,7 +8,7 @@ Source: https://unsplash.com/@mattpalmer
 
 Authors: Abiya Hanif, Ajaey Loganathan, Jenny Zhang, Kenuka Wijayatunga, Sarah Liang
 
-<img width="250" alt="image" src="Logos.png">
+<img width="250" alt="image" src="https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Logos.png">
 
 ---
 
