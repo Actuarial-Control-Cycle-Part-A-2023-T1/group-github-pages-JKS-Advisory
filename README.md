@@ -260,21 +260,21 @@ One limitation of the program is the socioeconomic situation of the two regions 
 Designing a social insurance program that effectively manages Storslysia’s exposure to climate-related catastrophes is an iterative process and requires careful oversight. JKS Advisory has provided the framework for a comprehensive social insurance program, “Program”, which has been stress-tested for various climate change scenarios, as well as economic and demographic assumptions. The Program consists of two schemes, the Voluntary Relocation Scheme and the Involuntary Relocation Scheme, which will work in tandem to ensure a 90% confidence level of not exceeding 10% of Storslysia’s GDP in any given year. Through continued updating and monitoring of the Program, Storslysia will be able to alleviate its exposure to catastrophe-related displacement risk and protect citizens to ensure a sustainable future.
 
 ## 10. References
-> 1. Cabinet, D.of P. (2023) $100 million Jobs Boost for Regional NSW, NSW Government. NSW Government. Available at: https://www.nsw.gov.au/media-releases/100-million-jobs-boost-for-regional-nsw#:~:text=%E2%80%9CThe%20Regional%20Job%20Creation%20Fund,regions%2C%E2%80%9D%20Mr%20Toole%20said (Accessed: March 27, 2023). 
+> Cabinet, D.of P. (2023) $100 million Jobs Boost for Regional NSW, NSW Government. NSW Government. Available at: https://www.nsw.gov.au/media-releases/100-million-jobs-boost-for-regional-nsw#:~:text=%E2%80%9CThe%20Regional%20Job%20Creation%20Fund,regions%2C%E2%80%9D%20Mr%20Toole%20said (Accessed: March 27, 2023). 
 
-> 2. Revenue NSW (2023) Regional relocation grant, Revenue NSW. Revenue NSW. Available at: https://www.revenue.nsw.gov.au/grants-schemes/previous-schemes/regional-relocation-grant#:~:text=The%20Skilled%20Regional%20Relocation%20Incentive,least%2012%20months%20between%20payments (Accessed: March 27, 2023). 
+> Revenue NSW (2023) Regional relocation grant, Revenue NSW. Revenue NSW. Available at: https://www.revenue.nsw.gov.au/grants-schemes/previous-schemes/regional-relocation-grant#:~:text=The%20Skilled%20Regional%20Relocation%20Incentive,least%2012%20months%20between%20payments (Accessed: March 27, 2023). 
 
-> 3. Hsieh. W et al. (2012). Supply-side Issues in the Housing Sector. Reserve Bank of Australia. Available at: https://www.rba.gov.au/publications/bulletin/2012/sep/2.html (Accessed March 27, 2023)
+> Hsieh. W et al. (2012). Supply-side Issues in the Housing Sector. Reserve Bank of Australia. Available at: https://www.rba.gov.au/publications/bulletin/2012/sep/2.html (Accessed March 27, 2023)
 
-> 4. Institute and Faculty of Actuaries (2016). Solvency II. Institute and Faculty of Actuaries. Available at: https://www.actuaries.org.uk/system/files/field/document/IandF_SA2_SolvencyII_2016.pdf (Accessed March 27, 2023)
+> Institute and Faculty of Actuaries (2016). Solvency II. Institute and Faculty of Actuaries. Available at: https://www.actuaries.org.uk/system/files/field/document/IandF_SA2_SolvencyII_2016.pdf (Accessed March 27, 2023)
 
-> 5. Johnson, C.A. (2012). Governing climate displacement: the ethics and politics of human resettlement. Environmental Politics, 21(2), pp.308–328. doi:https://doi.org/10.1080/09644016.2012.651905.
+> Johnson, C.A. (2012). Governing climate displacement: the ethics and politics of human resettlement. Environmental Politics, 21(2), pp.308–328. doi:https://doi.org/10.1080/09644016.2012.651905.
 
-> 6. Bonde, S. and Firenze, P. (2013). A Framework for Making Ethical Decisions. [online] Brown University. Available at: https://www.brown.edu/academics/science-and-technology-studies/framework-making-ethical-decisions
+> Bonde, S. and Firenze, P. (2013). A Framework for Making Ethical Decisions. [online] Brown University. Available at: https://www.brown.edu/academics/science-and-technology-studies/framework-making-ethical-decisions
 
-> 7. White, R.G et al. (2020). Systematic review of factors associated with quality of life of asylum seekers and refugees in high-income countries. Conflict and Health, 14(1). doi:https://doi.org/10.1186/s13031-020-00292-y
+> White, R.G et al. (2020). Systematic review of factors associated with quality of life of asylum seekers and refugees in high-income countries. Conflict and Health, 14(1). doi:https://doi.org/10.1186/s13031-020-00292-y
 
-> 8. Gibler, K.M. et al. (2014). The effect of new residential construction on housing prices. Journal of Housing Economics, 26, pp.1–18. doi:https://doi.org/10.1016/j.jhe.2014.06.003
+> Gibler, K.M. et al. (2014). The effect of new residential construction on housing prices. Journal of Housing Economics, 26, pp.1–18. doi:https://doi.org/10.1016/j.jhe.2014.06.003
 
 ## 11. R Studio Codes
 **1. [Frequency and Severity Model](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Frequency%20and%20Severity%20Modelling.r)** 
