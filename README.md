@@ -17,7 +17,7 @@ JKS Advisory have created a Social insurance Program to help analyse, manage and
 
   - For more contextual background on the 2023 SOA Research Challenge, click [here](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/).
   - To access JKS Advisory's full report, click [here](https://unsw-my.sharepoint.com/:b:/g/personal/z5258150_ad_unsw_edu_au/EbPL72i3ZApNnoQcUHvndToBX1g4ZwKD7fCn0H0Wc062nw?e=DNzgfl).
-  - To access all of JKS Advisory's R Studio modelling codes, click [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/edit/main/README.md#11-r-studio-codes). 
+  - To access all of JKS Advisory's R Studio modelling codes, click [here](#11-r-studio-codes). 
   - To access JKS Advisory's assumptions & cashflow projection calculations on Excel, click [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/FINAL-20230327_4001_MasterBacking.xlsx).
 
 ---
@@ -43,7 +43,7 @@ JKS Advisory have created a Social insurance Program to help analyse, manage and
 8. [Limitations](#8-limitations)
 9. [Final Recommendations](#9-final-recommendations)
 10. [References](#10-references)
-11. [R Studio Codes](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/edit/main/README.md#11-r-studio-codes)
+11. [R Studio Codes](#11-r-studio-codes)
 
 ---
 
