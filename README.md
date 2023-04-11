@@ -17,7 +17,8 @@ JKS Advisory have created a Social insurance Program to help analyse, manage and
 
   - For more contextual background on the 2023 SOA Research Challenge, click [here](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/).
   - To access JKS Advisory's full report, click [here](https://unsw-my.sharepoint.com/:b:/g/personal/z5258150_ad_unsw_edu_au/EbPL72i3ZApNnoQcUHvndToBX1g4ZwKD7fCn0H0Wc062nw?e=DNzgfl).
-  - To access JKS Advisory's Frequency and Severity Modelling R Studio code, click [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Frequency%20and%20Severity%20Modelling.r)
+  - To access all of JKS Advisory's R Studio modelling codes, click [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/edit/main/README.md#11-r-studio-codes). 
+  - To access JKS Advisory's assumptions & cashflow projection calculations on Excel, click [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/FINAL-20230327_4001_MasterBacking.xlsx).
 
 ---
 
@@ -42,6 +43,7 @@ JKS Advisory have created a Social insurance Program to help analyse, manage and
 8. [Limitations](#8-limitations)
 9. [Final Recommendations](#9-final-recommendations)
 10. [References](#10-references)
+11. [R Studio Codes](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/edit/main/README.md#11-r-studio-codes)
 
 ---
 
@@ -273,3 +275,24 @@ Designing a social insurance program that effectively manages Storslysia’s exp
 > 7. White, R.G et al. (2020). Systematic review of factors associated with quality of life of asylum seekers and refugees in high-income countries. Conflict and Health, 14(1). doi:https://doi.org/10.1186/s13031-020-00292-y
 
 > 8. Gibler, K.M. et al. (2014). The effect of new residential construction on housing prices. Journal of Housing Economics, 26, pp.1–18. doi:https://doi.org/10.1016/j.jhe.2014.06.003
+
+## 11. R Studio Codes
+**1. [Frequency and Severity Model](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/Frequency%20and%20Severity%20Modelling.r)** 
+
+    - Modelling the frequency and severity based off of JKS Advisory's forecasted assumptions and the provided data from SOA.
+    
+**2. [Distribution Testing](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/distribution_testing.R)**
+
+    - Testing to see which statistical distribution is the best fit for the frequency and severity plots.
+    
+**3. [Exploratory Data Analysis Code 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/eda.R) & [Exploratory Data Analysis Code 2](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/4001ecoEDA.R)**
+    
+      - Initial analysis on the hazard event data.
+        
+**4. [Extreme Value Theory](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/extreme_values.R)**
+
+    - Fitting a Pareto distribution to catastrophic events and modelling using the Extreme Value Theory.
+    
+**5. [Hazard Grouping](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-JKS-Advisory/blob/main/hazard_grouping.R)**
+
+    - Using Euclidean distance to reduce high cardinality of the Hazard.Event column by grouping perils.
