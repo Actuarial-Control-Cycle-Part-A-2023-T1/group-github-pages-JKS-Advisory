@@ -13,7 +13,7 @@ Authors: Abiya Hanif, Ajaey Loganathan, Jenny Zhang, Kenuka Wijayatunga, Sarah L
 ---
 
 ## Context
-JKS Advisory have come up with a Social insurance Program to help analyse, manage and monitor the displacement risks associated with climate change for Storslysia's Government. To find out more information about our program design and recommendations, keep scrolling! 
+JKS Advisory have created a Social insurance Program to help analyse, manage and monitor the displacement risks associated with climate change for Storslysia's Government. To find out more information about our program design and recommendations, keep scrolling! 
 
   - For more contextual background on the 2023 SOA Research Challenge, click [here](https://www.soa.org/research/opportunities/2023-student-research-case-study-challenge/).
   - To access JKS Advisory's full report, click [here](https://unsw-my.sharepoint.com/:b:/g/personal/z5258150_ad_unsw_edu_au/EbPL72i3ZApNnoQcUHvndToBX1g4ZwKD7fCn0H0Wc062nw?e=DNzgfl).
